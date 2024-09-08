@@ -6,9 +6,9 @@ This repository contains projects I developed as part of my academic studies.
 
     Implementation of graphical user interface (GUI) components. Design Patterns Used
 
-    Builder Design Pattern This pattern was applied to construct different game objects in a systematic way, providing flexibility and simplicity in object creation. Builder classes were designed to create objects such as balls, blocks, boundaries, and paddles, which ensures the code remains organized, readable, and easy to maintain.
+    Builder Design Pattern This pattern was applied to construct different game objects in a systematic way, providing flexibility and simplicity in object creation. Builder classes were designed to create objects such as balls, blocks, boundaries, and paddles, which         ensures the code remains organized, readable, and easy to maintain.
 
-    Observer Design Pattern The Observer pattern was utilized for handling events triggered by various game objects. Game objects act as observables, while listener classes function as observers. These listeners respond to events, such as removing blocks or balls from the game or updating the score, allowing new listeners to be added without modifying existing game objects, promoting a modular code structure.
+    Observer Design Pattern The Observer pattern was utilized for handling events triggered by various game objects. Game objects act as observables, while listener classes function as observers. These listeners respond to events, such as removing blocks or balls from         the game or updating the score, allowing new listeners to be added without modifying existing game objects, promoting a modular code structure.
 
 
 
